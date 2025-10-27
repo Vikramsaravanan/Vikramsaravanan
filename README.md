@@ -1,35 +1,91 @@
-<h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<!-- ===== ⚡ VIKRAM'S DARK NEON GITHUB PROFILE ===== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsaravanan&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsaravanan" /> </p>
+<h1 align="center">
+  <span style="color:#00FFFF;">⚡ Hi, I'm Vikram ⚡</span>
+</h1>
+<h3 align="center" style="color:#00BFFF;">
+  💻 Web Developer | 🚀 Building NeuraCRM | 🌌 Code. Create. Conquer.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramsaravanan" alt="vikramsaravanan" /></a> </p>
-
-- 🔭 I’m currently working on [NeuraCRM](https://github.com/Vikramsaravanan/NeuraCRM)
-
-- 🌱 I’m currently learning **React,DSA**
-
-- 👨‍💻 All of my projects are available at [https://vikramsaravanan.github.io/portfolio/](https://vikramsaravanan.github.io/portfolio/)
-
-- 📫 How to reach me **vikramsavena123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ornCsWiSK1-LNjM1uVynC3hFyDsI9GVx/view?usp=drive_link](https://drive.google.com/file/d/1ornCsWiSK1-LNjM1uVynC3hFyDsI9GVx/view?usp=drive_link)
-
-- ⚡ Fun fact **I'm a good person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikram-s13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikram-s13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kit27csbs60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kit27csbs60" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kit27_csbs60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kit27_csbs60" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vikram_60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vikram_60" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user1148ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1148ra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kit27cgdk0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kit27cgdk0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikramsaravanan&label=Profile%20Views&color=00FFFF&style=flat-square" alt="vikramsaravanan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramsaravanan&show_icons=true&locale=en&layout=compact" alt="vikramsaravanan" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramsaravanan&" alt="vikramsaravanan" /></p>
+- 🔭 Working on **[NeuraCRM](https://github.com/Vikramsaravanan/NeuraCRM)**
+- 🌱 Learning **React & DSA**
+- 👨‍💻 Explore my projects at **[My Portfolio](https://vikramsaravanan.github.io/portfolio/)**
+- 📫 Reach me: **vikramsavena123@gmail.com**
+- 📄 Know about me: [My Resume](https://drive.google.com/file/d/1ornCsWiSK1-LNjM1uVynC3hFyDsI9GVx/view?usp=drive_link)
+- ⚡ Fun fact: _I'm a good person_ 😎
+
+---
+
+### 🏆 Achievements (Coming Soon 🚧)
+
+<p align="center" style="color:#00FFFF;">
+  <b>🏗️ In Progress:</b> Building my developer milestones...<br/>
+  Stay tuned for GitHub trophies and badges!
+</p>
+
+<!-- Once you have achievements, uncomment below lines -->
+<!--
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikramsaravanan&theme=matrix&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+-->
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vikram-s13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/kit27csbs60" target="_blank"><img src="https://img.shields.io/badge/CodeChef-784B25?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/kit27_csbs60" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/vikram_60" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/user1148ra" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/kit27cgdk0" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mysql,postgres,mongodb&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vikramsaravanan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramsaravanan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsaravanan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+> 💼 **[NeuraCRM](https://github.com/Vikramsaravanan/NeuraCRM)** — A futuristic CRM platform integrating automation, AI, and minimal UI.
+
+---
+
+### ✨ Quote of the Day
+
+> _“Turn your caffeine into code and your dreams into deploys.”_ ☕💡
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Stay+awesome+and+keep+coding!;⚡+Vikram+signing+off..." alt="Typing SVG" />
+</p>
