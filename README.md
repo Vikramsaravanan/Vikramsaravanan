@@ -38,7 +38,7 @@
 
 ## 🚀 Projects
 
-### 🤖 NovaAI – AI Chat Interface (Frontend)
+### 🤖 NovaAI – AI Chat Interface
 - Built a responsive AI chat user interface using React.js 
 - Designed clean and intuitive UI for chat interactions
 - Implemented component-based structure for better reusability
