@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Vikramsaravanan/Vikramsaravanan/blob/main/banner_1.png?raw=true" width="100%" />
+  <img src="https://github.com/Vikramsaravanan/Vikramsaravanan/blob/main/banner_3.jpg?raw=true" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Vikram 👋</h1>
