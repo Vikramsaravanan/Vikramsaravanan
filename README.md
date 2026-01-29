@@ -49,7 +49,7 @@ Tech: React.js, JavaScript, Tailwind CSS
  - Improved UI with modern layout and clean styling
  - Added better spacing, colors, and responsive design
  - Enhanced user experience using structured components
- - Focused on readability and smooth navigation, 
+ - Focused on readability and smooth navigation
 
 ### ❤️ Love To Life 
  - Built a responsive static website using HTML, CSS, and JavaScript
@@ -102,7 +102,7 @@ Tech: HTML, CSS, JavaScript
 
 ---
 
-⭐ *Code. Learn. Build. Improve.*
+⭐ *Code. Learn. Improve. Repeat*
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Stay+awesome+and+keep+coding!;⚡+Vikram+signing+off..." alt="Typing SVG" />
